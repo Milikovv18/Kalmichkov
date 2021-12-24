@@ -9,5 +9,8 @@ Single/Multiplayer snake game + custom effects based on my graphics engine
 Имеется поддержка 1-2 игроков. По сравнению с традиционной версией игры,
 для змейки добавлены дополнительные яблоки и эффекты.
 
+### Пример
+https://user-images.githubusercontent.com/89595575/147372614-4ba23934-cd0e-4c6f-ae68-239d131bc7e6.mp4
+
 ## Компиляция
 Для компиляции рекомендуется использовать MSVC x64. При использовании Visual Studio откройте файл проекта Kalmichkov.vcxproj

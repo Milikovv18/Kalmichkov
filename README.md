@@ -2,8 +2,6 @@
   <img src="https://github.com/user-attachments/assets/9eadb339-7dd8-44c4-81dd-3369f9e044ff" />
 </p>
 
-# 🐍 Kalmichkov
-
 When I was a freshman in university, one of my group-mates struggled with understanding data structures. To help, I created a fun snake game leveraging the unmodified file `Qlmichkov.cpp/h`, originally written by our lecturer, whose last name inspired the project's name. The game incorporates standard snake mechanics with additional custom effects and supports both single-player and two-player modes. It’s built using my custom 2D graphics engine.
 
 ---

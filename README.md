@@ -2,6 +2,11 @@
   <img src="https://github.com/user-attachments/assets/9eadb339-7dd8-44c4-81dd-3369f9e044ff" />
 </p>
 
+![Console Adventures](https://img.shields.io/badge/Console%20Adventures-green?logo=gnometerminal&logoColor=000000
+)  ![WinAPI](https://img.shields.io/badge/WinAPI-blue
+)  ![Network](https://img.shields.io/badge/Network-purple?style=flat&logo=wikiquote
+)  ![Graphics](https://img.shields.io/badge/Graphics-darkorange?logo=blender&logoColor=white)
+
 When I was a freshman in university, one of my group-mates struggled with understanding data structures. To help, I created a fun snake game leveraging the unmodified file `Qlmichkov.cpp/h`, originally written by our lecturer, whose last name inspired the project's name. The game incorporates standard snake mechanics with additional custom effects and supports both single-player and two-player modes. It’s built using my custom 2D graphics engine.
 
 ---
